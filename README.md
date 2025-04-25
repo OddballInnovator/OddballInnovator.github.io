@@ -13,7 +13,7 @@ Technical Product Leader with 10+ years of experience building innovative produc
 
 ## KEY ACHIEVEMENTS
 - **Patent Holder**: Task Resumption in a Natural Understanding System (Patent #11,579,841)
-- **Product Launches**: Built and shipped multiple Generative AI features at Amazon Alexa, serving millions of customers
+- **Product Launches**: Built and shipped multiple Generative AI features at Amazon Alexa.
 - **Revenue Impact**: Generated $3M+ in yearly revenue through innovative product solutions
 - **Technical Innovation**: Created AIFAST, a Python library for unified LLM interfaces
 - **Community Impact**: Built LevelUp, an AI-powered Product Management Interview Coach
@@ -24,7 +24,7 @@ Technical Product Leader with 10+ years of experience building innovative produc
 
 ### AMAZON Alexa (2020 - Present)
 **Senior Product Manager Technical, Alexa+**
-- Led development of Generative AI primitives and features for Alexa+, enabling agentic workflows and autonomous agent capabilities
+- Led development of Generative AI primitives and features for Alexa+, enabling multiasking experiences, agentic workflows and autonomous agent capabilities
 - Spearheaded cross-organizational initiatives, aligning 50+ engineers across multiple teams to deliver complex AI features
 - Drove product strategy and execution, resulting in successful deployment of multiple AI-powered features in production
 - Collaborated with senior leadership to shape Alexa's strategic direction and operational plans
