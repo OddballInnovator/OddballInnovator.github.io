@@ -62,7 +62,7 @@ Master of Business Administration, Dean's Merit Fellow (2019)
 Winner of 2018 Winter Case Competition sponsored by Expedia
 
 **RCCIIT**, Kolkata, India  
-Bachelor of Engineering, Information Technology (Top 5% of graduating class) (2005)
+Bachelor of Engineering, Information Technology (Top 5% of graduating class)
 
 ---
 
