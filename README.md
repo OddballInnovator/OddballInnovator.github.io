@@ -1,4 +1,3 @@
-# ROHIT BHATTACHARJEE
 
 Product Management Executive • Technical Leader • Innovation Driver
 
@@ -13,8 +12,8 @@ Technical Product Leader with 10+ years of experience building innovative produc
 
 ## KEY ACHIEVEMENTS
 - **Patent Holder**: Task Resumption in a Natural Understanding System (Patent #11,579,841)
-- **Product Launches**: Built and shipped multiple Generative AI features at Amazon Alexa, serving millions of customers
-- **Revenue Impact**: Generated $3M+ in yearly revenue through innovative product solutions
+- **Product Launches**: Built and shipped multiple Generative AI features at Amazon Alexa
+- **Revenue Impact**: Multi-million dollar revenue generation through innovative product solutions
 - **Technical Innovation**: Created AIFAST, a Python library for unified LLM interfaces
 - **Community Impact**: Built LevelUp, an AI-powered Product Management Interview Coach
 
@@ -38,7 +37,6 @@ Technical Product Leader with 10+ years of experience building innovative produc
 
 ### DATAXU INDIA PVT. LTD. (acquired by Hulu) (2015 - 2017)
 **Product Owner**
-- Built and launched real-time analytics dashboard, generating $3M in annual revenue
 - Optimized programmatic ad campaign reporting, reducing processing time from 24 hours to 15 minutes
 - Led cross-functional team in developing innovative advertising solutions
 
