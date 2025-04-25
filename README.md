@@ -1,7 +1,6 @@
+🌎 Seattle, WA | 📞 425.318.2340 | 📧 rohitb7uw@gmail.com | 👔 [LinkedIn](https://www.linkedin.com/in/rohitbhattacharjee/) | 💻 [GitHub](https://github.com/OddballInnovator)
 
 Product Management Executive • Technical Leader • Innovation Driver
-
-🌎 Seattle, WA | 📞 425.318.2340 | 📧 rohitb7uw@gmail.com | [LinkedIn](https://www.linkedin.com/in/rohitbhattacharjee/) | [GitHub](https://github.com/OddballInnovator)
 
 ---
 
@@ -14,7 +13,7 @@ Technical Product Leader with 10+ years of experience building innovative produc
 - **Patent Holder**: Task Resumption in a Natural Understanding System (Patent #11,579,841)
 - **Product Launches**: Built and shipped multiple Generative AI features at Amazon Alexa
 - **Revenue Impact**: Multi-million dollar revenue generation through innovative product solutions
-- **Technical Innovation**: Created AIFAST, a Python library for unified LLM interfaces
+- **Technical Innovation**: Built multiple open-source tools and platforms leveraging cutting-edge AI technologies
 - **Community Impact**: Built LevelUp, an AI-powered Product Management Interview Coach
 
 ---
@@ -44,14 +43,15 @@ Technical Product Leader with 10+ years of experience building innovative produc
 - **Amazon India** (2014-2015): Software Engineer - Built analytics platform detecting 1800+ yearly payment anomalies
 - **Oracle India** (2013-2014): Principal Software Developer - Reduced storage management overhead by 50%
 - **NetApp India** (2010-2013): Product Development Lead - Led 40+ developers in SOA transformation
-- **Nokia India** (2008-2010): Senior R&D Engineer - Contributed to Nokia's first mobile browser
+- **Nokia India** (2008-2010): Senior R&D Engineer - Contributed to Nokia's first touch-powered mobile browser built on WebKit engine
+- **Wipro Technologies** (2005-2008): Project Engineer - Delivered key projects for Motorola, Ericsson, and Telstra
 
 ---
 
 ## SIDE PROJECTS & PUBLICATIONS
-- **AIFAST**: Open-source Python library for unified LLM interfaces (OpenAI, Anthropic)
+- **AIFAST**: Open-source Python library for unified LLM interfaces (OpenAI, Anthropic, Cohere) with extensibility to other LLMs - [GitHub](https://github.com/OddballInnovator/AIFAST)
 - **LevelUp**: AI-Powered Product Management Interview Coach - [levelupai.vercel.app](https://levelupai.vercel.app/)
-- **Alexa Kids Games Skill**: Built in memory of my dog, featuring his bark [Amazon Skill Store](https://www.amazon.com/dp/B08K2MJBYW/)
+- **Chip Chip - Alexa Kids Games Skill**: Built in memory of my dog, featuring his bark [Amazon Store](https://www.amazon.com/dp/B08K2MJBYW/)
 - **Technical Blog**: [swaggerit.wordpress.com](https://swaggerit.wordpress.com/)
 
 ---
