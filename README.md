@@ -5,7 +5,7 @@ Product Management Executive • Technical Leader • Innovation Driver
 ---
 
 ## PROFESSIONAL SUMMARY
-Technical Product Leader with 10+ years of experience building innovative products at Amazon, specializing in Generative AI and cloud technologies. Unique blend of deep technical expertise (patent holder, full-stack developer) and product leadership (managing 50+ engineers). Proven track record of shipping successful products, from enterprise systems to consumer-facing AI applications. Passionate about building products that matter and mentoring the next generation of product leaders.
+Technical Product Leader with 10+ years of software development and 7+ years of product management experience, currently building innovative Generative AI and cloud technologies at Amazon. Unique blend of deep technical expertise (patent holder, full-stack developer) and product leadership (managing 50+ engineers). Proven track record of shipping successful products, from enterprise systems to consumer-facing AI applications. Passionate about building products that matter and mentoring the next generation of product leaders.
 
 ---
 
