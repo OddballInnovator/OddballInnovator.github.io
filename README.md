@@ -21,7 +21,7 @@ Technical Product Leader with 10+ years of software development and 7+ years of 
 ## PROFESSIONAL EXPERIENCE
 
 ### AMAZON Alexa (2020 - Present)
-**Product Manager (Lead) Technical, Alexa+**
+**Senior Product Manager Technical, Alexa**
 - Led development of Generative AI primitives and features for Alexa+, enabling agentic workflows and autonomous agent capabilities
 - Spearheaded cross-organizational initiatives, aligning 50+ engineers across multiple teams to deliver complex AI features
 - Drove product strategy and execution, resulting in successful deployment of multiple AI-powered features in production
