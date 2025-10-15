@@ -58,7 +58,7 @@ Technical Product Leader with 10+ years of software development and 7+ years of 
 
 ## EDUCATION
 **THE MICHAEL G. FOSTER SCHOOL OF BUSINESS, UNIVERSITY OF WASHINGTON**, Seattle, WA  
-Master of Business Administration, Dean's Merit Fellow (2019)  
+Master of Business Administration, Dean's Merit Fellow
 Winner of 2018 Winter Case Competition sponsored by Expedia
 
 **RCCIIT**, Kolkata, India  
