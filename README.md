@@ -10,7 +10,7 @@ Technical Product Leader with 10+ years of software development and 7+ years of 
 ---
 
 ## KEY ACHIEVEMENTS
-- **Patent Holder**: Task Resumption in a Natural Understanding System (Patent #US 12,412,572 В1); Device Selection For Outputting Content (US Patent No. 12444418)
+- **Patent Holder**: Task Resumption in a Natural Understanding System [Patent #US 12,412,572](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12412572); Device Selection For Outputting Content [US Patent No. 12444418](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12444418)
 - **Product Launches**: Built and shipped multiple Generative AI features at Amazon Alexa
 - **Revenue Impact**: Multi-million dollar revenue generation through innovative product solutions
 - **Technical Innovation**: Built multiple open-source tools and platforms leveraging cutting-edge AI technologies
